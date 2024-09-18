@@ -62,9 +62,7 @@ This command will run the project locally, and you can view it in your browser a
 
 If you'd like to contribute to this project, feel free to submit pull requests or open issues.
 
-## License
 
-This project is licensed under the MIT License.
 
 ---
 
