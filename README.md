@@ -8,9 +8,7 @@
 ## Features
 - Home Page with company introduction and key highlights
 - Services page detailing various construction services
-- Portfolio page showcasing completed projects
-- Contact page with a form for inquiries and contact details
-- Responsive design for both desktop and mobile devices
+
 
 ## Getting Started
 
