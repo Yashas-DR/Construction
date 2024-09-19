@@ -48,7 +48,7 @@ npm install
 After the dependencies are installed, you can start the development server:
 
 ```bash
-npm run dev
+npm run start
 ```
 
 This command will run the project locally, and you can view it in your browser at `http://localhost:3000`.
