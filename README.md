@@ -24,7 +24,7 @@ To get a local copy of the project up and running, follow these instructions.
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Construction.git
+git clone https://github.com/Yashas-DR/Construction.git
 
 
 ```
